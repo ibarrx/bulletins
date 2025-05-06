@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bulletins",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d84ca412-b496-48da-b2e7-b0eab72469db",
+      "database_name": "bulletins"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
